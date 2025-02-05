@@ -1,3 +1,3 @@
 const variable = "Hola"
 
-console.log(variable)
+console.log(variable)    
