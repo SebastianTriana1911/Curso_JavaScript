@@ -3,13 +3,13 @@
 let a = 5;
 
 // Equality operator
-console.log(a == 18);
-console.log(a == 5);
-console.log(a == "5");
+console.log(a == 18); // Return False
+console.log(a == 5); // Return True
+console.log(a == "5"); // Return True
 
 // Inequality operator
-console.log(a != 20);
-console.log(a != "5");
+console.log(a != 20); // Return True
+console.log(a != "5"); // Return False
 
 // Identity operator or strict equality operator
 // The strict equality operator validate the value of the variable and this type
@@ -18,7 +18,7 @@ console.log(a === "5");
 
 // Not identical operator o not strict equialitu operator
 console.log(a !== 20); // Not identical
-console.log(a !== 5);
+console.log(a !== 5); // Return False
 console.log(a !== "5");
 
 // Greater than operator
