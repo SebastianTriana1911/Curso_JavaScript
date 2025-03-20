@@ -1,4 +1,4 @@
-// DESTRUCTURING OF OBJECT NESTED
+// DESTRUCTURING OF OBJECT NESTED (SYNTAX: objectNested:{propertyObjectNested})
 
 const characteristics = {
     weight: "3.9 pounds",
